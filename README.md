@@ -22,8 +22,8 @@ Have fun!
 
 
 
-So I have succefully created a based on given information.
-Future scope: Docker implementations so you don't have to follow below steps
+So I have succefully created a project based on given information.
+Future scope: Docker implementations so we don't have to follow below steps
 
 but for this time, you have to follow below steps to run above project in your local machine
 
