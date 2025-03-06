@@ -56,6 +56,8 @@ NOTE: At the moment, I am just showing those predictions but in future with the 
 we can update investments column based on investment.
 
 ***Feature Selections***
+
+
 As we all know, This data set has so many feature.
 - I have uploaded pandas profiling report to artifacts which gives more details about correlation of the features.
 - I have also added one more sheet to excel fiel in docs folders which has more details about which features I have used and why I have used.
