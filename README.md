@@ -50,12 +50,6 @@ then run below script
 
 >>fastapi run app.py
 
-
-2. You can directly run app thru your localhost and it will give you predicted results
-
->>fastapi run app.py
-
-
 NOTE: At the moment, I am just showing those predictions but in future with the help of javascript and HTML, 
 we can update investments column based on investment.
 
