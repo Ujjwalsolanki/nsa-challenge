@@ -22,7 +22,6 @@ Have fun!
 
 
 
-(Ujjwal Solanki)
 So I have succefully created a based on given information.
 Future scope: Docker implementations so you don't have to follow below steps
 
