@@ -62,3 +62,5 @@ As we all know, This data set has so many feature.
 
 - for the Model evaluation, I have used F1 score. We can discuss more about this metric.
 
+
+**While running ipynb files, we have to make explicitly, "extracted files" folder inside reserach folder and "artifacts" folder under main branch.
